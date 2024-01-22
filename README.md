@@ -30,7 +30,7 @@
 <h2 align="center">⚒ Main Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ts,react,redux,graphql,materialui,tailwind" />  <img width="50" height="40" src="https://pngset.com/images/react-native-react-native-logo-word-text-symbol-trademark-transparent-png-814881.png" /> <img width="50" height="40" src="https://seeklogo.com/images/E/expo-go-app-logo-BBBE394CB8-seeklogo.com.png" />
+    <img src="https://skillicons.dev/icons?i=ts,react,redux,graphql,materialui,tailwind" />  <img width="50" height="40" src="https://velog.velcdn.com/images/pagkusd/post/da237447-55dd-4d7a-94f1-b6aaaf9226dd/image.png" /> <img width="50" height="40" src="https://seeklogo.com/images/E/expo-go-app-logo-BBBE394CB8-seeklogo.com.png" />
 </div>
 
 <h2 align="center">⚒ Others Languages-Frameworks-Tools ⚒</h2>
