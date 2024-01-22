@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 👾 I am currently working for a Full-stack company. There are over 100 sites on the grid.
+ 👾 I am currently working for a Full-stack company. There are over 150 sites on the grid.
  
  📱 I'm currently learning React Native and anything related to mobile development
 
