@@ -30,7 +30,7 @@
 <h2 align="center">⚒ Main Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ts,react,redux,graphql,materialui,tailwind" /> <img src="https://skillicons.dev/icons?i=react" /><span>React Native</span> <img width="100" height="50" src="https://www.vhv.rs/dpng/d/524-5247300_expo-react-native-hd-png-download.png" />
+    <img src="https://skillicons.dev/icons?i=ts,react,redux,graphql,materialui,tailwind" /> <img src="https://skillicons.dev/icons?i=react" /><span>React Native</span> <img width="100" height="50" src="https://seeklogo.com/images/E/expo-go-app-logo-BBBE394CB8-seeklogo.com.png" />
 </div>
 
 <h2 align="center">⚒ Others Languages-Frameworks-Tools ⚒</h2>
