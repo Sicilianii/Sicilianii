@@ -30,7 +30,7 @@
 <h2 align="center">⚒ Main Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ts,react,redux,graphql,materialui,tailwind" /><img src="https://skillicons.dev/icons?i=react" /><h4>React Native</h4>
+    <img src="https://skillicons.dev/icons?i=ts,react,redux,graphql,materialui,tailwind" /><img src="https://skillicons.dev/icons?i=react" />React Native
 </div>
 
 <h2 align="center">⚒ Others Languages-Frameworks-Tools ⚒</h2>
