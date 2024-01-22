@@ -25,20 +25,21 @@
   </a>
 </div>
 
- <hr/>
- 
+
 <h2 align="center">⚒ Main Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ts,react,redux,graphql,materialui,tailwind" />  <img width="150" height="50" src="https://images.velog.io/images/yeseul/post/5d486191-5ca3-44ac-b579-fcaf39f48141/%E2%9A%9B_React_Native%20(2).png" /> <img width="50" height="40" src="https://seeklogo.com/images/E/expo-go-app-logo-BBBE394CB8-seeklogo.com.png" />
 </div>
-<hr/>
+
+
 <h2 align="center">⚒ Frontend Tools ⚒</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,git,github,html,ai,js,jquery,nextjs,sass,windicss,wordpress" />
 </div>
-<hr/>
+
+
 <h2 align="center">⚒ Backend Tools ⚒</h2>
 <br/>
 <div align="center">
