@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sicilianii.Sicilianii" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+moppet!+👋;+I'm+Vladislav!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+🌃+🌃+🌃Hello+moppet!+🌃+🌃+🌃;+🚬+I'm+Vladislav!+🚬;" />
 </h1>
 
 Full-stack developer with 1 year of experience 💩 
@@ -46,9 +46,9 @@ Full-stack developer with 1 year of experience 💩
 
 
 <div align="center">
-  <img width="50" height="50" src="https://usagif.com/wp-content/uploads/2021/4fh5wi/pepefrg-4.gif" />My Contributions<img width="50" height="50" src="https://usagif.com/wp-content/uploads/2021/4fh5wi/pepefrg-4.gif" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&vCenter=true&width=200&height=50&duration=7000&lines=+🚬+My+Contributions+🚬;" />
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sicilianii/Sicilianii/output/github-contribution-grid-snake-dark.svg" />
+  <img width="50" height="50" src="https://usagif.com/wp-content/uploads/2021/4fh5wi/pepefrg-4.gif" /><img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sicilianii/Sicilianii/output/github-contribution-grid-snake-dark.svg" /><img width="50" height="50" src="https://usagif.com/wp-content/uploads/2021/4fh5wi/pepefrg-4.gif" />
   
   <br/><br/><br/>
 </div>
