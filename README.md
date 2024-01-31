@@ -32,7 +32,7 @@ and anything related to mobile development ![React](https://img.shields.io/badge
 
 <h3 align="center">⚒ Main Frameworks-Tools ⚒ </h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ts,react,redux,graphql,materialui,tailwind,nodejs,express,php,mysql,sqlite" /><img width="50" height="40" src="https://seeklogo.com/images/E/expo-go-app-logo-BBBE394CB8-seeklogo.com.png"  />
+    <img src="https://skillicons.dev/icons?i=ts,react,redux,graphql,materialui,tailwind,nodejs,express,php,mysql,sqlite" /><img width="50" height="40" src="https://seeklogo.com/images/E/expo-go-app-logo-BBBE394CB8-seeklogo.com.png" />
 </div>
 <br/>
 <div align="center">
@@ -44,6 +44,7 @@ and anything related to mobile development ![React](https://img.shields.io/badge
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&vCenter=true&width=200&height=50&duration=7000&lines=+🚬+My+Contributions+🚬;" /><br/>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sicilianii/Sicilianii/output/github-contribution-grid-snake-dark.svg" />
+  
   
   <br/><br/><br/>
 </div>
