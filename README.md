@@ -16,19 +16,6 @@ and anything related to mobile development ![React](https://img.shields.io/badge
 ![React](https://img.shields.io/badge/-ReactNative-%23282C34?style=flat-square&logo=react)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 ![Expo](https://img.shields.io/badge/-Expo-%231a202c?style=flat-square&logo=expo)
-<div align="right">
-    <img width="100" height="100" src="https://usagif.com/wp-content/uploads/2021/4fh5wi/pepefrg-13.gif" />
- </div> 
-<div align="right"> 
-  <a href="mailto:ssiciliani@rambler.ru">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=purple" />
-  </a>
-  <a href="https://t.me/sSiciliano" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0077B5??style=for-the-badge&logo=telegram&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-
 
 
 <h3 align="center">⚒ Main Frameworks-Tools ⚒ </h3>
