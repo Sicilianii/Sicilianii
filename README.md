@@ -1,13 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sicilianii.Sicilianii" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+🌃+🌃+🌃Hello+moppet!+🌃+🌃+🌃;+🚬+I'm+Vladislav!+🚬;" />
-</h1>
-
 <div align="center">
 <img width="50" height="50" src="https://usagif.com/wp-content/uploads/2021/4fh5wi/pepefrg-4.gif" />Full-stack developer with 1 year of experience <img width="50" height="50" src="https://usagif.com/wp-content/uploads/2021/4fh5wi/pepefrg-4.gif" /> 
 </div>
-
 <br>
 👾 I am currently working for a Full-stack company. There are over 150 sites on the grid. 
 
