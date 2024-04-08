@@ -8,7 +8,7 @@
     👾 I am currently working for a Full-stack company. There are over 150 sites on the grid. 
     📱 I'm currently learning React Native <br>
     and anything related to mobile development 
-    <img width="50" height="50" src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react" />
+    <img width="50" src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react" />
     
     ![React](https://img.shields.io/badge/-ReactNative-%23282C34?style=flat-square&logo=react)
     ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
