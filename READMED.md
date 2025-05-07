@@ -1,34 +1,27 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sicilianii.Sicilianii" />
-
-<div align="center">
-<img width="50" height="50" src="https://usagif.com/wp-content/uploads/2021/4fh5wi/pepefrg-4.gif" />Full-stack developer with 1 year of experience <img width="50" height="50" src="https://usagif.com/wp-content/uploads/2021/4fh5wi/pepefrg-4.gif" /> 
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Sicilianii.Sicilianii" /><br>
+<div align="left">
+🎯 Frontend React Developer | Next.js | TypeScript | UI Performance Optimization<br>
+💡 Passionate about building scalable, user-friendly web applications<br>
+🧰 Experienced with React ecosystem, MobX, RESTful APIs, SSR & SEO optimization<br>
+⚙️ Skilled in migrating legacy systems, improving PageSpeed, and integrating third-party platforms<br>
+🤝 Team-oriented, Agile-driven, focused on clean, maintainable code<br>
 </div>
-<br>
-<div align="center">
-    👾 I am currently working for a Full-stack company. There are over 150 sites on the grid. 
-    📱 I'm currently learning React Native <br>
-    and anything related to mobile development 
-    <img  src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react" /> <img  src="https://img.shields.io/badge/-ReactNative-%23282C34?style=flat-square&logo=react" /> <img  src="https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css" /> <img  src="https://img.shields.io/badge/-Expo-%231a202c?style=flat-square&logo=expo" />
+<br />
+<!---<h3 align="left">⚒ Main Frameworks-Tools ⚒ </h3>-->
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,jest,materialui,nodejs,express,php,mysql" />
 </div>
-
-<h3 align="center">⚒ Main Frameworks-Tools ⚒ </h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=ts,react,redux,graphql,materialui,tailwind,nodejs,express,php,mysql,sqlite" /><img width="50" height="40" src="https://seeklogo.com/images/E/expo-go-app-logo-BBBE394CB8-seeklogo.com.png" />
-</div>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,git,github,html,ai,js,jquery,nextjs,sass,windicss,wordpress" />
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,html,css,tailwind,windicss,sass,figma,docker" />
 </div>
 <br/>
 
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&vCenter=true&width=200&height=50&duration=7000&lines=+🚬+My+Contributions+🚬;" /><br/>
+<!---
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&vCenter=true&width=200&height=50&duration=7000&lines=+🚬+My+Contributions+🚬;" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sicilianii/Sicilianii/output/github-contribution-grid-snake-dark.svg" />
-  
-  
-  <br/><br/><br/>
 </div>
+-->
 
 
 
