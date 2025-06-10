@@ -11,10 +11,13 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,jest,materialui,nodejs,express,php,mysql" />
 </div>
+<!---
+<br />
 <div align="left">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,html,css,tailwind,windicss,sass,figma,docker" />
 </div>
 <br/>
+-->
 
 <!---
 <div align="left">
